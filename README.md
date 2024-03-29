@@ -11,3 +11,6 @@ scikit-learn
 OpenCV
 TensorFlow
 Keras
+
+**RESULT**
+<img width="580" alt="Result" src="https://github.com/noobacker/Emojify---Detect-emotion-from-human-face-ML-Project-/assets/56571751/b0b116ec-8016-465b-af6c-59dbbd1adca8">
